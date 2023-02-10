@@ -28,6 +28,6 @@ const ObtenerDatos=async(estado)=>{
 
 export const ListaTareas = () => {
   return (
-    <div>ListaTareas</div>
+    <div>ListaTareas 1</div>
   )
 }
